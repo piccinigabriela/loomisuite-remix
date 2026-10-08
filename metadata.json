@@ -1,0 +1,10 @@
+{
+  "name": "Remix Loomi Suite - Software Simple para Departamentos, Cabañas, Hostales y Apart Hoteles",
+  "description": "PMS simple y visual para complejos de cabañas, Bed \u0026 Breakfasts, pequeños hostales y posadas. Rack de habitaciones, extras, reservas directas y WhatsApp sin sistemas pesados.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
